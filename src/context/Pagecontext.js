@@ -1,4 +1,4 @@
 import { createContext } from "react";
 
-const PageContext = createContext;
-export default PageContext
+const PageContext = createContext();
+export default PageContext;
